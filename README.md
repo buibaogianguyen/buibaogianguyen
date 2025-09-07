@@ -3,7 +3,7 @@
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buibaogianguyen&theme=graywhite&hide_border=true"/>
 
 
-- 🔭 I’m currently working on **a DenseNet121 Model to detect early Pneumonia based on chest x-rays.**
+- 🔭 I’m currently working on **ClearChat**.
 
 - 🌱 I’m currently learning **PyTorch, TensorFlow and applications in Computer Vision/Healthcare**
 
