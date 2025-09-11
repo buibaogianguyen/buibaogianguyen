@@ -3,7 +3,7 @@
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buibaogianguyen&theme=graywhite&hide_border=true"/>
 
 
-- 🚀 I’m currently working on **ClearChat**.
+- 🚀 I’m currently working on **ClearChat**, an automated moderation tool that filters offensive language and hate speech on YouTube and Twitch live stream chats.
 
 - 🤖 I’m currently learning **Computer Vision/Deep Learning and applications in Transportation Automation, GANs, and Entertainment**.
 
