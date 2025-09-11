@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ClearChat**.
 
-- 🌱 I’m currently learning **PyTorch, TensorFlow and applications in Computer Vision/Healthcare**
+- 🌱 I’m currently learning **Computer Vision/Deep Learning and applications in Transportation Automation, GANs, and Entertainment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
