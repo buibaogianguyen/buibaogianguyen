@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Nguyen</h1>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buibaogianguyen&theme=graywhite&hide_border=true"/>
+<h1>Hi, I'm Nguyen</h1>
 
 
 - 🚀 I’m currently working on **ClearChat**, an automated moderation tool that filters offensive language and hate speech on YouTube and Twitch live stream chats.
