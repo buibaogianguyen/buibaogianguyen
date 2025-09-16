@@ -1,9 +1,9 @@
 <h1>Hi, I'm Nguyen</h1>
 
 
-- 🚀 I’m currently working on **ClearChat**, an automated moderation tool that filters offensive language and hate speech on YouTube and Twitch live stream chats.
+I’m currently working on **ClearChat**, an automated moderation tool that filters offensive language and hate speech on YouTube and Twitch live stream chats. 🚀
 
-- 🤖 I’m currently learning **Computer Vision/Deep Learning and applications in Transportation Automation, GANs, and Entertainment**.
+I’m currently learning **Computer Vision/Deep Learning and applications in Transportation Automation, GANs, and Entertainment**. 🤖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,12 +29,6 @@
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
 ### Web & Frontend Development
@@ -65,11 +59,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
 
-### UI / Design Tools
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</a>
-
 ### Machine Learning & AI
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
@@ -96,18 +85,21 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
 </a>
 
-### Game Development
-<a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+### Databases & Query Languages
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
 ### Others
 <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaggle_Logo.svg/1200px-Kaggle_Logo.svg.png" alt="Kaggle" width="40" height="40"/>
 </a>
-
-<br>
-<br>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buibaogianguyen&show_icons=true&locale=en&layout=compact" alt="buibaogianguyen" /></p>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+</a>
