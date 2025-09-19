@@ -3,7 +3,7 @@
 
 I’m currently working on **ClearChat**, an automated moderation tool that filters offensive language and hate speech on YouTube and Twitch live stream chats. 🚀
 
-I’m currently learning **Computer Vision/Deep Learning and applications in Transportation Automation, GANs, and Entertainment**. 🤖
+I’m currently learning **Computer Vision/Deep Learning and applications in Transportation Automation, GANs, Entertainment as well as PostgreSQL**. 🤖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
