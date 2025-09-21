@@ -1,9 +1,9 @@
 <h1>Hi, I'm Nguyen</h1>
 
 
-I’m currently working on **ClearChat**, an automated moderation tool that filters offensive language and hate speech on YouTube and Twitch live stream chats. 🚀
+I’m currently working on **NeuroMap**, a real-time visualization tool for people starting machine learning. 🚀
 
-I’m currently learning **Computer Vision/Deep Learning and applications in Transportation Automation, GANs, Entertainment as well as PostgreSQL**. 🤖
+I’m currently learning **Computer Vision/Deep Learning and applications in Transportation Automation as well as PostgreSQL**. 🤖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
