@@ -84,6 +84,9 @@ I’m currently learning **Computer Vision/Deep Learning and applications in Tra
 <a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer">
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
 </a>
+<a href="https://onnx.ai/" target="_blank" rel="noreferrer">
+  <img src="https://i.postimg.cc/4yRJNcKW/1-B2-T8byc-Se-Ih-PFoo-Iw-Gf8fw.png" alt="ONNX" width="40" height="40"/>
+</a>
 
 ### Databases & Query Languages
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
