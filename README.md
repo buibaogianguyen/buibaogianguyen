@@ -3,7 +3,7 @@
 
 I’m currently working on **NeuroMap**, a real-time visualization tool for people starting machine learning. 🚀
 
-I’m currently learning **Computer Vision/Deep Learning and applications in Transportation Automation as well as PostgreSQL**. 🤖
+I’m currently learning **Computer Vision/Deep Learning and applications in Human Interaction and Detection as well as PostgreSQL**. 🤖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
