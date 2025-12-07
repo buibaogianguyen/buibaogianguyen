@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nguyen</h1>
 
 
-I’m currently working on **NeuroMap**, a real-time visualization tool for people starting machine learning. 🚀
+I’m currently working on an eye-disease AI model, along with UCF's AIM Research Lab. 🚀
 
 I’m currently learning **Computer Vision/Deep Learning and applications in Human Interaction and Detection as well as PostgreSQL**. 🤖
 
